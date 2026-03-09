@@ -1,42 +1,85 @@
-# sloppyBigfoot2 🦶💥🤖
+<!-- og:description: A curated collection of AI-generated photoreal images depicting Bigfoot encountering and reacting to AI slop across various chaotic settings. -->
 
-## Bigfoot vs AI Slop - A Photoreal Saga
+# sloppyBigfoot2
 
-Bigfoot has had ENOUGH of AI-generated slop polluting the internet. Follow our legendary cryptid as they encounter and attempt to destroy terrible AI art across various settings.
+[![GitHub last commit](https://img.shields.io/github/last-commit/farmrecipes67/sloppyBigfoot2)](https://github.com/farmrecipes67/sloppyBigfoot2)
+[![GitHub repo size](https://img.shields.io/github/repo-size/farmrecipes67/sloppyBigfoot2)](https://github.com/farmrecipes67/sloppyBigfoot2)
+![License](https://img.shields.io/badge/license-not%20specified-lightgrey)
 
-### Gallery
+🦶🤖 **Bigfoot encounters AI slop in various settings — photoreal chaos.**
 
-#### 1. bigfoot vs sixfinger painting
-![bigfoot vs sixfinger painting](images/bigfoot_vs_sixfinger_painting.png)
-
-#### 2. sasquatch crushes slop laptop
-![sasquatch crushes slop laptop](images/sasquatch_crushes_slop_laptop.png)
-
-#### 3. yeti office cubicle rage
-![yeti office cubicle rage](images/yeti_office_cubicle_rage.png)
-
-#### 4. cryptid billboard takedown
-![cryptid billboard takedown](images/cryptid_billboard_takedown.png)
-
-#### 5. woodland ape smashes server
-![woodland ape smashes server](images/woodland_ape_smashes_server.png)
-
-#### 6. hairy hominid cafe meltdown
-![hairy hominid cafe meltdown](images/hairy_hominid_cafe_meltdown.png)
-
-#### 7. forest giant vs drone slop
-![forest giant vs drone slop](images/forest_giant_vs_drone_slop.png)
-
-#### 8. swamp squatch tears poster
-![swamp squatch tears poster](images/swamp_squatch_tears_poster.png)
-
-#### 9. mountain beast museum rampage
-![mountain beast museum rampage](images/mountain_beast_museum_rampage.png)
-
-#### 10. legendary ape kitchen chaos
-![legendary ape kitchen chaos](images/legendary_ape_kitchen_chaos.png)
+A curated image collection featuring everyone's favorite cryptid, Bigfoot, confronting, destroying, and generally losing it over AI-generated slop across a wide range of scenarios. From office cubicles to swamp billboards, no setting is safe.
 
 ---
 
-*Generated with love by Papersaurus 🦕 - all images are AI-generated photoreal art*
-*The irony of using AI to generate images of Bigfoot destroying AI slop is not lost on us* 😂
+## About
+
+**sloppyBigfoot2** is a gallery of AI-generated photorealistic images exploring the comedic premise of Bigfoot (and Bigfoot-adjacent cryptids) reacting violently or dramatically to AI slop — bad AI art, AI-generated content on screens, printed AI images, and more. Each image depicts a unique setting and a unique flavor of chaos.
+
+This is the spiritual successor / second volume in the sloppyBigfoot series.
+
+---
+
+## 🖼️ Gallery
+
+| Image | Description |
+|-------|-------------|
+| `bigfoot_vs_sixfinger_painting.png` | Bigfoot confronts a classic AI art tell — the six-fingered painting |
+| `cryptid_billboard_takedown.png` | A cryptid tears down an AI slop billboard |
+| `forest_giant_vs_drone_slop.png` | A forest giant faces off against a slop-projecting drone |
+| `hairy_hominid_cafe_meltdown.png` | A hairy hominid has a full meltdown in a café setting |
+| `legendary_ape_kitchen_chaos.png` | Kitchen chaos erupts as a legendary ape encounters AI slop |
+| `mountain_beast_museum_rampage.png` | A mountain beast rampages through a museum full of AI art |
+| `sasquatch_crushes_slop_laptop.png` | A sasquatch crushes a laptop displaying AI slop |
+| `swamp_squatch_tears_poster.png` | A swamp-dwelling squatch tears an AI-generated poster apart |
+| `woodland_ape_smashes_server.png` | A woodland ape smashes the server responsible for generating slop |
+| `yeti_office_cubicle_rage.png` | A yeti rages in an office cubicle surrounded by AI content |
+
+---
+
+## Project Structure
+
+```
+sloppyBigfoot2/
+├── README.md
+└── images/
+    ├── bigfoot_vs_sixfinger_painting.png
+    ├── cryptid_billboard_takedown.png
+    ├── forest_giant_vs_drone_slop.png
+    ├── hairy_hominid_cafe_meltdown.png
+    ├── legendary_ape_kitchen_chaos.png
+    ├── mountain_beast_museum_rampage.png
+    ├── sasquatch_crushes_slop_laptop.png
+    ├── swamp_squatch_tears_poster.png
+    ├── woodland_ape_smashes_server.png
+    └── yeti_office_cubicle_rage.png
+```
+
+---
+
+## Usage
+
+This repository is an image gallery — no installation required. You can:
+
+1. **Browse online:** View images directly on [GitHub](https://github.com/farmrecipes67/sloppyBigfoot2/tree/main/images).
+2. **Clone locally:**
+   ```bash
+   git clone https://github.com/farmrecipes67/sloppyBigfoot2.git
+   ```
+3. **Download individual images:** Navigate to the `images/` directory and download any image you'd like.
+
+---
+
+## Contributing
+
+Have an idea for a new Bigfoot-vs-AI-slop scenario? Feel free to open an issue or submit a pull request with new images.
+
+---
+
+## Disclaimer
+
+All images in this repository are AI-generated. No actual Bigfoots, yetis, sasquatches, or servers were harmed in the making of this collection.
+
+---
+
+<sub>This README was auto-generated. Last updated: 2026-03-08.</sub>
